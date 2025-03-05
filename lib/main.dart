@@ -71,7 +71,7 @@ class HomePage extends StatelessWidget {
                         shape: BoxShape.circle,
                         border: Border.all(color: Colors.pink.shade300, width: 4),
                         image: const DecorationImage(
-                          image: AssetImage("assets/images/tiara.jpg"),
+                          image: AssetImage("assets/images/tiara pink.png"),
                           fit: BoxFit.cover,
                         ),
                       ),

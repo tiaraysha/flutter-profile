@@ -113,7 +113,7 @@ class ProfilePicture extends StatelessWidget {
           ),
         ],
         image: const DecorationImage(
-          image: AssetImage("assets/images/tiara.jpg"),
+          image: AssetImage("assets/images/tiara pink.png"),
           fit: BoxFit.cover,
         ),
       ),
